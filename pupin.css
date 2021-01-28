@@ -2,6 +2,7 @@ body {
     background-color: rgb(177, 184, 182);
     width: 960px;
     font-family: sans-serif;
+    font-size: 16px;
 }
     
 
@@ -93,6 +94,8 @@ a {
     
 
 }
+
+
 a:hover {
     color:rgb(218, 99, 20);
     transform: scale(1.1);
